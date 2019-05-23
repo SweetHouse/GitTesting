@@ -1,0 +1,6 @@
+查看当前分支：git branch
+      切换分支：git checkout xxx
+查看项目变动：git status
+切换分支前如果不方便commit可以先stash：git stash  如果没提交或者保存，在切换时会把变动的代码带到切换的分支上，导致冲突
+提交代码：git commit -m‘提交说明’
+查看git配置：git config --list
