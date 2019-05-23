@@ -14,3 +14,9 @@ push时提示：fatal: Could not read from remote repository.Please make sure yo
 ssh-keygen -t rsa -C "github用户名"
 完了后打开pub查看，里面便是ssh密钥，直接复制到github设置ssh里面即可。
 删除passphrase：ssh-keygen -p
+
+
+
+
+
+1.0动了
